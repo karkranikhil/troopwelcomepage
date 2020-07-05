@@ -4,7 +4,7 @@ import SEO from "../components/seo.js"
 
 const Slides = () => (
   <Layout>
-    <SEO title="Page two" />
+    <SEO title="Enrich Your Javascript" />
     <div style={{
       margin: "auto",
       textAlign: "center"}}>

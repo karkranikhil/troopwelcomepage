@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
+    title: `Salesforce Troop`,
+    description: `The best part of learning is sharing what you know.This is a place to learn salesforce lightning web component and Javascript.`,
     author: `@gatsbyjs`,
   },
   plugins: [
