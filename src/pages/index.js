@@ -1,10 +1,10 @@
 import React from "react"
-import Layout from "../components/layout"
-import SEO from "../components/seo"
-import Welcome from "../components/Welcome"
+import Layout from "../components/layout.js"
+import SEO from "../components/seo.js"
+import Welcome from "../components/Welcome.js"
 const IndexPage = () => (
   <Layout>
-    <SEO title="Home" />
+    <SEO title="Salesforce Troop" />
     <Welcome/>
   </Layout>
 )
